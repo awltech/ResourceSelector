@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="Resource Selector Core And Processors Eclipse Labs Update Site">
+      Resource Selector Core And Processors Eclipse Labs Update Site
+   </description>
+   <feature url="features/org.eclipselabs.resourceselector.core_0.4.0.201106211600.jar" id="org.eclipselabs.resourceselector.core" version="0.4.0.201106211600">
+      <category name="Resource Selector Core"/>
+   </feature>
+   <feature url="features/org.eclipselabs.resourceselector.core.source_0.4.0.201106211600.jar" id="org.eclipselabs.resourceselector.core.source" version="0.4.0.201106211600">
+      <category name="Resource Selector Core Sources"/>
+   </feature>
+   <feature url="features/org.eclipselabs.resourceselector.processor.java_0.3.0.201102011430.jar" id="org.eclipselabs.resourceselector.processor.java" version="0.3.0.201102011430">
+      <category name="Resource Selector Processors"/>
+   </feature>
+      <feature url="features/org.eclipselabs.resourceselector.processor.java.source_0.3.0.201102011430.jar" id="org.eclipselabs.resourceselector.processor.java.source" version="0.3.0.201102011430">
+      <category name="Resource Selector Processors Sources"/>
+   </feature>
+   <feature url="features/org.eclipselabs.resourceselector.processor.uml_0.3.0.201102011430.jar" id="org.eclipselabs.resourceselector.processor.uml" version="0.3.0.201102011430">
+      <category name="Resource Selector Processors"/>
+   </feature>
+   <feature url="features/org.eclipselabs.resourceselector.processor.uml.source_0.3.0.201102011430.jar" id="org.eclipselabs.resourceselector.processor.uml.source" version="0.3.0.201102011430">
+      <category name="Resource Selector Processors Sources"/>
+   </feature>
+   <category-def name="Resource Selector Core" label="Resource Selector Core"/>
+   <category-def name="Resource Selector Core Sources" label="Resource Selector Core Sources"/>
+   <category-def name="Resource Selector Processors" label="Resource Selector Processors"/>
+   <category-def name="Resource Selector Processors Sources" label="Resource Selector Processors Sources"/>
+</site>
