@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Samples for Resource Selector
+Bundle-SymbolicName: org.eclipselabs.resourceselector.core.samples;singleton:=true
+Bundle-Version: 0.4.0.qualifier
+Bundle-Activator: org.eclipselabs.resourceselector.core.samples.Activator
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ org.eclipse.core.resources,
+ org.eclipse.jdt.core,
+ org.eclipselabs.resourceselector.core,
+ org.eclipselabs.resourceselector.processor.java,
+ org.eclipselabs.resourceselector.processor.java.hierarchy,
+ org.eclipselabs.resourceselector.processor.java.primitives
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Bundle-Vendor: Atos Worldline Technical Direction

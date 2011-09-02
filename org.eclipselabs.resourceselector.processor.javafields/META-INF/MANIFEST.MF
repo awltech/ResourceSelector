@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Java Fields Resource Processor
+Bundle-SymbolicName: org.eclipselabs.resourceselector.processor.javafields;singleton:=true
+Bundle-Version: 0.3.0.qualifier
+Bundle-Activator: org.eclipselabs.resourceselector.processor.javafields.Activator
+Bundle-Vendor: Atos Worldline Technical Direction
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ org.eclipselabs.resourceselector.core;bundle-version="0.1.0",
+ org.eclipse.core.resources;bundle-version="3.5.2",
+ org.eclipse.jdt.core;bundle-version="3.5.2"
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Bundle-ActivationPolicy: lazy

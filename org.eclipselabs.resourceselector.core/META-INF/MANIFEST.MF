@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Resource Selector Core
+Bundle-SymbolicName: org.eclipselabs.resourceselector.core;singleton:=true
+Bundle-Version: 0.4.0.qualifier
+Bundle-Activator: org.eclipselabs.resourceselector.core.Activator
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ org.eclipse.core.resources
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Export-Package: org.eclipselabs.resourceselector.core.filters,
+ org.eclipselabs.resourceselector.core.processor,
+ org.eclipselabs.resourceselector.core.resources,
+ org.eclipselabs.resourceselector.core.selector
+Bundle-Vendor: Atos Worldline Technical Direction

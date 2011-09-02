@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+
+   <extension
+         point="org.eclipse.ui.popupMenus">
+      <objectContribution
+            id="org.eclipselabs.resourceselector.core.samples.contribution2"
+            objectClass="org.eclipse.jdt.core.IJavaProject">
+            <menu
+               label="Resource Selector Samples"
+               path="additions"
+               id="org.eclipselabs.resourceselector.core.samples.menu1">
+            <separator
+                  name="group1">
+            </separator>
+         </menu>
+         <action
+               class="org.eclipselabs.resourceselector.core.samples.popup.actions.OpenJavaTypeResourceSelector"
+               enablesFor="1"
+               id="org.eclipselabs.resourceselector.core.samples.newAction"
+               label="Open Resource Selector"
+               menubarPath="org.eclipselabs.resourceselector.core.samples.menu1/group1">
+         </action>
+      </objectContribution>
+      <objectContribution
+            id="org.eclipselabs.resourceselector.core.samples.contribution4"
+            objectClass="org.eclipse.jdt.core.IJavaProject">
+         <action
+               class="org.eclipselabs.resourceselector.core.samples.popup.actions.OpenJavaHierarchyResourceSelector"
+               enablesFor="1"
+               id="org.eclipselabs.resourceselector.core.samples.newAction"
+               label="Open Hierarchy Resource Selector"
+               menubarPath="org.eclipselabs.resourceselector.core.samples.menu1/group1">
+         </action>
+      </objectContribution>
+   </extension>
+
+</plugin>
