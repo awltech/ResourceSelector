@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Require-Bundle: org.eclipse.ui,org.eclipse.core.runtime,org.eclipse.co
+ re.resources,org.eclipse.jdt.core,org.eclipselabs.resourceselector.co
+ re,org.eclipselabs.resourceselector.processor.java,org.eclipselabs.re
+ sourceselector.processor.java.hierarchy,org.eclipselabs.resourceselec
+ tor.processor.java.primitives
+Bundle-Vendor: Atos Worldline Technical Direction
+Bundle-ActivationPolicy: lazy
+Bundle-Version: 0.4.0.201303250755-indigo-SNAPSHOT
+Bundle-Name: Samples for Resource Selector
+Bundle-Activator: org.eclipselabs.resourceselector.core.samples.Activa
+ tor
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: org.eclipselabs.resourceselector.core.samples;sin
+ gleton:=true
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+

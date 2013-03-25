@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Export-Package: org.eclipselabs.resourceselector.processor.uml
+Require-Bundle: org.eclipselabs.resourceselector.core;visibility:=reex
+ port,org.eclipse.ui,org.eclipse.core.resources,org.eclipse.core.runti
+ me,org.eclipse.emf.ecore,org.eclipse.uml2.uml,org.eclipse.uml2.uml.ed
+ it
+Bundle-Vendor: Atos Worldline Technical Direction
+Bundle-ActivationPolicy: lazy
+Bundle-Version: 0.3.0.201303250755-indigo-SNAPSHOT
+Bundle-Name: UML Type Processor for Resource Selector
+Bundle-Activator: org.eclipselabs.resourceselector.processor.uml.Activ
+ ator
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: org.eclipselabs.resourceselector.processor.uml
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+

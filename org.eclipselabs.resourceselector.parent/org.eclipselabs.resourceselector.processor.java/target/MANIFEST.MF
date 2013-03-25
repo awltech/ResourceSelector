@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Export-Package: org.eclipselabs.resourceselector.processor.java
+Require-Bundle: org.eclipselabs.resourceselector.core;visibility:=reex
+ port,org.eclipse.ui,org.eclipse.core.resources,org.eclipse.core.runti
+ me,org.eclipse.jdt.core,org.eclipse.jdt.launching
+Bundle-Vendor: Atos Worldline Technical Direction
+Bundle-ActivationPolicy: lazy
+Bundle-Version: 0.3.0.201303250755-indigo-SNAPSHOT
+Bundle-Name: Java Types Resource Selector Extension
+Bundle-Activator: org.eclipselabs.resourceselector.processor.java.Acti
+ vator
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: org.eclipselabs.resourceselector.processor.java;s
+ ingleton:=true
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+
