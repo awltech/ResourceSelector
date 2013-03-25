@@ -6,7 +6,7 @@ Require-Bundle: org.eclipse.ui,org.eclipse.core.runtime,org.eclipse.co
  tor.processor.java.primitives
 Bundle-Vendor: Atos Worldline Technical Direction
 Bundle-ActivationPolicy: lazy
-Bundle-Version: 0.4.0.201303250755-indigo-SNAPSHOT
+Bundle-Version: 0.4.1.201303250755-indigo-SNAPSHOT
 Bundle-Name: Samples for Resource Selector
 Bundle-Activator: org.eclipselabs.resourceselector.core.samples.Activa
  tor

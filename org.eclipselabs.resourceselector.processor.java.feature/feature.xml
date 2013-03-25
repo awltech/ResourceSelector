@@ -2,7 +2,7 @@
 <feature
       id="org.eclipselabs.resourceselector.processor.java"
       label="Resource Selector Java Processors"
-      version="0.3.0.qualifier"
+      version="0.3.1.qualifier"
       provider-name="Atos Worldline Technical Direction">
 
    <description url="http://www.example.com/description">
@@ -115,21 +115,21 @@ This Agreement is governed by the laws of the State of New York and the intellec
          id="org.eclipselabs.resourceselector.processor.java"
          download-size="0"
          install-size="0"
-         version="0.3.0.qualifier"
+         version="0.3.1.qualifier"
          unpack="false"/>
 
    <plugin
          id="org.eclipselabs.resourceselector.processor.java.hierarchy"
          download-size="0"
          install-size="0"
-         version="0.3.0.qualifier"
+         version="0.3.1.qualifier"
          unpack="false"/>
 
    <plugin
          id="org.eclipselabs.resourceselector.processor.java.primitives"
          download-size="0"
          install-size="0"
-         version="0.3.0.qualifier"
+         version="0.3.1.qualifier"
          unpack="false"/>
 
 </feature>

@@ -6,7 +6,7 @@ Require-Bundle: org.eclipselabs.resourceselector.core;visibility:=reex
  it
 Bundle-Vendor: Atos Worldline Technical Direction
 Bundle-ActivationPolicy: lazy
-Bundle-Version: 0.3.0.201303250755-indigo-SNAPSHOT
+Bundle-Version: 0.3.1.201303250755-indigo-SNAPSHOT
 Bundle-Name: UML Type Processor for Resource Selector
 Bundle-Activator: org.eclipselabs.resourceselector.processor.uml.Activ
  ator

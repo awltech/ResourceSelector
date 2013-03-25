@@ -2,11 +2,11 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.eclipselabs.resourceselector.feature</groupId>
   <artifactId>org.eclipselabs.resourceselector.processor.uml</artifactId>
-  <version>0.3.0-SNAPSHOT</version>
+  <version>0.3.1-SNAPSHOT</version>
   <packaging>eclipse-feature</packaging>
   <parent>
   	<groupId>org.eclipselabs.resourceselector</groupId>
   	<artifactId>org.eclipselabs.resourceselector.parent</artifactId>
-  	<version>0.3.0-SNAPSHOT</version>
+  	<version>0.3.1-SNAPSHOT</version>
   </parent>
 </project>

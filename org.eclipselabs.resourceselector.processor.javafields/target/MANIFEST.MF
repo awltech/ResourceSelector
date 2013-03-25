@@ -5,7 +5,7 @@ Require-Bundle: org.eclipse.ui,org.eclipse.core.runtime,org.eclipselab
  2"
 Bundle-Vendor: Atos Worldline Technical Direction
 Bundle-ActivationPolicy: lazy
-Bundle-Version: 0.3.0.201303250755-indigo-SNAPSHOT
+Bundle-Version: 0.3.1.201303250755-indigo-SNAPSHOT
 Bundle-Name: Java Fields Resource Processor
 Bundle-Activator: org.eclipselabs.resourceselector.processor.javafield
  s.Activator

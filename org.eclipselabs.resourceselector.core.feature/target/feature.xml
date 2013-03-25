@@ -2,7 +2,7 @@
 <feature
       id="org.eclipselabs.resourceselector.core"
       label="Resource Processor Core"
-      version="0.4.0.201303250755-indigo-SNAPSHOT"
+      version="0.4.1.201303250755-indigo-SNAPSHOT"
       provider-name="Atos Worldline Technical Direction">
 
    <description url="http://www.example.com/description">
@@ -112,7 +112,7 @@ This Agreement is governed by the laws of the State of New York and the intellec
          id="org.eclipselabs.resourceselector.core"
          download-size="33"
          install-size="59"
-         version="0.4.0.201303250755-indigo-SNAPSHOT"
+         version="0.4.1.201303250755-indigo-SNAPSHOT"
          unpack="false"/>
 
 </feature>

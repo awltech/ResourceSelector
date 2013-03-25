@@ -2,10 +2,10 @@
   <modelVersion>4.0.0</modelVersion>
   <artifactId>org.eclipselabs.resourceselector.core</artifactId>
   <packaging>eclipse-plugin</packaging>
-  <version>0.4.0-SNAPSHOT</version>
+  <version>0.4.1-SNAPSHOT</version>
   <parent>
   	<groupId>org.eclipselabs.resourceselector</groupId>
   	<artifactId>org.eclipselabs.resourceselector.parent</artifactId>
-  	<version>0.3.0-SNAPSHOT</version>
+  	<version>0.3.1-SNAPSHOT</version>
   </parent>
 </project>
