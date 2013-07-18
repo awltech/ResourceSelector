@@ -2,7 +2,7 @@
 <feature
       id="org.eclipselabs.resourceselector.processor.uml"
       label="Resource Selector Processor for types in UML models"
-      version="0.3.1.201303250755-indigo-SNAPSHOT"
+      version="0.4.0.201307181326-indigo-SNAPSHOT"
       provider-name="Atos Worldline Technical Direction">
 
    <description url="http://www.example.com/description">
@@ -115,8 +115,8 @@ This Agreement is governed by the laws of the State of New York and the intellec
    <plugin
          id="org.eclipselabs.resourceselector.processor.uml"
          download-size="18"
-         install-size="33"
-         version="0.3.1.201303250755-indigo-SNAPSHOT"
+         install-size="34"
+         version="0.4.0.201307181326-indigo-SNAPSHOT"
          unpack="false"/>
 
 </feature>

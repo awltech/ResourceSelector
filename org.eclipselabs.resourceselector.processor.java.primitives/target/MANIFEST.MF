@@ -6,12 +6,12 @@ Require-Bundle: org.eclipselabs.resourceselector.core;visibility:=reex
  me
 Bundle-Vendor: Atos Worldline Technical Direction
 Bundle-ActivationPolicy: lazy
-Bundle-Version: 0.3.1.201303250755-indigo-SNAPSHOT
+Bundle-Version: 0.4.0.201307181326-indigo-SNAPSHOT
 Bundle-Name: Java Primitives Types extension for Resource Selector
 Bundle-Activator: org.eclipselabs.resourceselector.processor.java.prim
  itives.Activator
 Bundle-ManifestVersion: 2
 Bundle-SymbolicName: org.eclipselabs.resourceselector.processor.java.p
  rimitives;singleton:=true
-Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
 

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <units size='2'>
-  <unit id='org.eclipselabs.resourceselector.processor.uml.feature.group' version='0.3.1.201303250755-indigo-SNAPSHOT' singleton='false'>
-    <update id='org.eclipselabs.resourceselector.processor.uml.feature.group' range='[0.0.0,0.3.1.201303250755-indigo-SNAPSHOT)' severity='0'/>
+  <unit id='org.eclipselabs.resourceselector.processor.uml.feature.group' version='0.4.0.201307181326-indigo-SNAPSHOT' singleton='false'>
+    <update id='org.eclipselabs.resourceselector.processor.uml.feature.group' range='[0.0.0,0.4.0.201307181326-indigo-SNAPSHOT)' severity='0'/>
     <properties size='8'>
       <property name='org.eclipse.equinox.p2.name' value='Resource Selector Processor for types in UML models'/>
       <property name='org.eclipse.equinox.p2.description' value='[Enter Feature Description here.]'/>
@@ -10,10 +10,10 @@
       <property name='org.eclipse.equinox.p2.type.group' value='true'/>
       <property name='maven-groupId' value='org.eclipselabs.resourceselector.feature'/>
       <property name='maven-artifactId' value='org.eclipselabs.resourceselector.processor.uml'/>
-      <property name='maven-version' value='0.3.1-SNAPSHOT'/>
+      <property name='maven-version' value='0.4.0-SNAPSHOT'/>
     </properties>
     <provides size='1'>
-      <provided namespace='org.eclipse.equinox.p2.iu' name='org.eclipselabs.resourceselector.processor.uml.feature.group' version='0.3.1.201303250755-indigo-SNAPSHOT'/>
+      <provided namespace='org.eclipse.equinox.p2.iu' name='org.eclipselabs.resourceselector.processor.uml.feature.group' version='0.4.0.201307181326-indigo-SNAPSHOT'/>
     </provides>
     <requires size='9'>
       <required namespace='org.eclipse.equinox.p2.iu' name='org.eclipselabs.resourceselector.core' range='0.0.0'/>
@@ -23,8 +23,8 @@
       <required namespace='org.eclipse.equinox.p2.iu' name='org.eclipse.emf.ecore' range='0.0.0'/>
       <required namespace='org.eclipse.equinox.p2.iu' name='org.eclipse.uml2.uml' range='0.0.0'/>
       <required namespace='org.eclipse.equinox.p2.iu' name='org.eclipse.uml2.uml.edit' range='0.0.0'/>
-      <required namespace='org.eclipse.equinox.p2.iu' name='org.eclipselabs.resourceselector.processor.uml' range='[0.3.1.201303250755-indigo-SNAPSHOT,0.3.1.201303250755-indigo-SNAPSHOT]'/>
-      <required namespace='org.eclipse.equinox.p2.iu' name='org.eclipselabs.resourceselector.processor.uml.feature.jar' range='[0.3.1.201303250755-indigo-SNAPSHOT,0.3.1.201303250755-indigo-SNAPSHOT]'>
+      <required namespace='org.eclipse.equinox.p2.iu' name='org.eclipselabs.resourceselector.processor.uml' range='[0.4.0.201307181326-indigo-SNAPSHOT,0.4.0.201307181326-indigo-SNAPSHOT]'/>
+      <required namespace='org.eclipse.equinox.p2.iu' name='org.eclipselabs.resourceselector.processor.uml.feature.jar' range='[0.4.0.201307181326-indigo-SNAPSHOT,0.4.0.201307181326-indigo-SNAPSHOT]'>
         <filter>
           (org.eclipse.update.install.features=true)
         </filter>
@@ -40,7 +40,7 @@
       [Enter Copyright Description here.]
     </copyright>
   </unit>
-  <unit id='org.eclipselabs.resourceselector.processor.uml.feature.jar' version='0.3.1.201303250755-indigo-SNAPSHOT'>
+  <unit id='org.eclipselabs.resourceselector.processor.uml.feature.jar' version='0.4.0.201307181326-indigo-SNAPSHOT'>
     <properties size='7'>
       <property name='org.eclipse.equinox.p2.name' value='Resource Selector Processor for types in UML models'/>
       <property name='org.eclipse.equinox.p2.description' value='[Enter Feature Description here.]'/>
@@ -48,18 +48,18 @@
       <property name='org.eclipse.equinox.p2.provider' value='Atos Worldline Technical Direction'/>
       <property name='maven-groupId' value='org.eclipselabs.resourceselector.feature'/>
       <property name='maven-artifactId' value='org.eclipselabs.resourceselector.processor.uml'/>
-      <property name='maven-version' value='0.3.1-SNAPSHOT'/>
+      <property name='maven-version' value='0.4.0-SNAPSHOT'/>
     </properties>
     <provides size='3'>
-      <provided namespace='org.eclipse.equinox.p2.iu' name='org.eclipselabs.resourceselector.processor.uml.feature.jar' version='0.3.1.201303250755-indigo-SNAPSHOT'/>
+      <provided namespace='org.eclipse.equinox.p2.iu' name='org.eclipselabs.resourceselector.processor.uml.feature.jar' version='0.4.0.201307181326-indigo-SNAPSHOT'/>
       <provided namespace='org.eclipse.equinox.p2.eclipse.type' name='feature' version='1.0.0'/>
-      <provided namespace='org.eclipse.update.feature' name='org.eclipselabs.resourceselector.processor.uml' version='0.3.1.201303250755-indigo-SNAPSHOT'/>
+      <provided namespace='org.eclipse.update.feature' name='org.eclipselabs.resourceselector.processor.uml' version='0.4.0.201307181326-indigo-SNAPSHOT'/>
     </provides>
     <filter>
       (org.eclipse.update.install.features=true)
     </filter>
     <artifacts size='1'>
-      <artifact classifier='org.eclipse.update.feature' id='org.eclipselabs.resourceselector.processor.uml' version='0.3.1.201303250755-indigo-SNAPSHOT'/>
+      <artifact classifier='org.eclipse.update.feature' id='org.eclipselabs.resourceselector.processor.uml' version='0.4.0.201307181326-indigo-SNAPSHOT'/>
     </artifacts>
     <touchpoint id='org.eclipse.equinox.p2.osgi' version='1.0.0'/>
     <touchpointData size='1'>

@@ -6,11 +6,11 @@ Require-Bundle: org.eclipse.ui,org.eclipse.core.runtime,org.eclipse.co
  re.resources
 Bundle-Vendor: Atos Worldline Technical Direction
 Bundle-ActivationPolicy: lazy
-Bundle-Version: 0.4.1.201303250755-indigo-SNAPSHOT
+Bundle-Version: 0.4.0.201307181326-indigo-SNAPSHOT
 Bundle-Name: Resource Selector Core
 Bundle-Activator: org.eclipselabs.resourceselector.core.Activator
 Bundle-ManifestVersion: 2
 Bundle-SymbolicName: org.eclipselabs.resourceselector.core;singleton:=
  true
-Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
 

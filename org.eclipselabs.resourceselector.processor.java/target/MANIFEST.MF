@@ -5,12 +5,12 @@ Require-Bundle: org.eclipselabs.resourceselector.core;visibility:=reex
  me,org.eclipse.jdt.core,org.eclipse.jdt.launching
 Bundle-Vendor: Atos Worldline Technical Direction
 Bundle-ActivationPolicy: lazy
-Bundle-Version: 0.3.1.201303250755-indigo-SNAPSHOT
+Bundle-Version: 0.4.0.201307181326-indigo-SNAPSHOT
 Bundle-Name: Java Types Resource Selector Extension
 Bundle-Activator: org.eclipselabs.resourceselector.processor.java.Acti
  vator
 Bundle-ManifestVersion: 2
 Bundle-SymbolicName: org.eclipselabs.resourceselector.processor.java;s
  ingleton:=true
-Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
 

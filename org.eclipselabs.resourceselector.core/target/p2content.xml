@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <units size='1'>
-  <unit id='org.eclipselabs.resourceselector.core' version='0.4.1.201303250755-indigo-SNAPSHOT'>
-    <update id='org.eclipselabs.resourceselector.core' range='[0.0.0,0.4.1.201303250755-indigo-SNAPSHOT)' severity='0'/>
+  <unit id='org.eclipselabs.resourceselector.core' version='0.4.0.201307181326-indigo-SNAPSHOT'>
+    <update id='org.eclipselabs.resourceselector.core' range='[0.0.0,0.4.0.201307181326-indigo-SNAPSHOT)' severity='0'/>
     <properties size='5'>
       <property name='org.eclipse.equinox.p2.name' value='Resource Selector Core'/>
       <property name='org.eclipse.equinox.p2.provider' value='Atos Worldline Technical Direction'/>
       <property name='maven-groupId' value='org.eclipselabs.resourceselector'/>
       <property name='maven-artifactId' value='org.eclipselabs.resourceselector.core'/>
-      <property name='maven-version' value='0.4.1-SNAPSHOT'/>
+      <property name='maven-version' value='0.4.0-SNAPSHOT'/>
     </properties>
     <provides size='7'>
-      <provided namespace='org.eclipse.equinox.p2.iu' name='org.eclipselabs.resourceselector.core' version='0.4.1.201303250755-indigo-SNAPSHOT'/>
-      <provided namespace='osgi.bundle' name='org.eclipselabs.resourceselector.core' version='0.4.1.201303250755-indigo-SNAPSHOT'/>
+      <provided namespace='org.eclipse.equinox.p2.iu' name='org.eclipselabs.resourceselector.core' version='0.4.0.201307181326-indigo-SNAPSHOT'/>
+      <provided namespace='osgi.bundle' name='org.eclipselabs.resourceselector.core' version='0.4.0.201307181326-indigo-SNAPSHOT'/>
       <provided namespace='java.package' name='org.eclipselabs.resourceselector.core.filters' version='0.0.0'/>
       <provided namespace='java.package' name='org.eclipselabs.resourceselector.core.processor' version='0.0.0'/>
       <provided namespace='java.package' name='org.eclipselabs.resourceselector.core.resources' version='0.0.0'/>
@@ -24,13 +24,13 @@
       <required namespace='osgi.bundle' name='org.eclipse.core.resources' range='0.0.0'/>
     </requires>
     <artifacts size='1'>
-      <artifact classifier='osgi.bundle' id='org.eclipselabs.resourceselector.core' version='0.4.1.201303250755-indigo-SNAPSHOT'/>
+      <artifact classifier='osgi.bundle' id='org.eclipselabs.resourceselector.core' version='0.4.0.201307181326-indigo-SNAPSHOT'/>
     </artifacts>
     <touchpoint id='org.eclipse.equinox.p2.osgi' version='1.0.0'/>
     <touchpointData size='1'>
       <instructions size='1'>
         <instruction key='manifest'>
-          Bundle-SymbolicName: org.eclipselabs.resourceselector.core;singleton:=true&#xA;Bundle-Version: 0.4.1.201303250755-indigo-SNAPSHOT&#xA;
+          Bundle-SymbolicName: org.eclipselabs.resourceselector.core;singleton:=true&#xA;Bundle-Version: 0.4.0.201307181326-indigo-SNAPSHOT&#xA;
         </instruction>
       </instructions>
     </touchpointData>
