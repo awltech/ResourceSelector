@@ -22,7 +22,7 @@
 		<tycho-version>0.18.0</tycho-version>
 		<tycho-groupid>org.eclipse.tycho</tycho-groupid>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<platform-version-name>indigo</platform-version-name>
+		<platform-version-name>kepler</platform-version-name>
 		<platform-tag>e43x</platform-tag>
 		<maven.javadoc.skip>true</maven.javadoc.skip>
 		<release-type>SNAPSHOT</release-type>
