@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: UML Type Processor for Resource Selector
 Bundle-SymbolicName: org.eclipselabs.resourceselector.processor.uml
-Bundle-Version: 0.4.0.qualifier
+Bundle-Version: 1.0.0.qualifier
 Bundle-Activator: org.eclipselabs.resourceselector.processor.uml.Activator
 Require-Bundle: org.eclipselabs.resourceselector.core;visibility:=reexport,
  org.eclipse.ui,
