@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Java Fields Resource Processor
 Bundle-SymbolicName: org.eclipselabs.resourceselector.processor.javafields;singleton:=true
-Bundle-Version: 1.0.0.qualifier
+Bundle-Version: 1.0.1.qualifier
 Bundle-Activator: org.eclipselabs.resourceselector.processor.javafields.Activator
 Bundle-Vendor: Atos Worldline Technical Direction
 Require-Bundle: org.eclipse.ui,
