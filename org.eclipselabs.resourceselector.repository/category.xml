@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/org.eclipselabs.resourceselector.core_1.0.0.qualifier.jar" id="org.eclipselabs.resourceselector.core" version="1.0.0.qualifier">
+   <feature url="features/org.eclipselabs.resourceselector.core_1.0.1.qualifier.jar" id="org.eclipselabs.resourceselector.core" version="1.0.1.qualifier">
       <category name="Resource Selector"/>
    </feature>
-   <feature url="features/org.eclipselabs.resourceselector.processor.java_1.0.0.qualifier.jar" id="org.eclipselabs.resourceselector.processor.java" version="1.0.0.qualifier">
+   <feature url="features/org.eclipselabs.resourceselector.processor.java_1.0.1.qualifier.jar" id="org.eclipselabs.resourceselector.processor.java" version="1.0.1.qualifier">
       <category name="Resource Selector"/>
    </feature>
-   <feature url="features/org.eclipselabs.resourceselector.processor.uml_1.0.0.qualifier.jar" id="org.eclipselabs.resourceselector.processor.uml" version="1.0.0.qualifier">
+   <feature url="features/org.eclipselabs.resourceselector.processor.uml_1.0.1.qualifier.jar" id="org.eclipselabs.resourceselector.processor.uml" version="1.0.1.qualifier">
       <category name="Resource Selector"/>
    </feature>
    <category-def name="Resource Selector" label="Resource Selector"/>
